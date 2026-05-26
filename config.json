@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvncrypt",
+        "uuid": 626076,
+        "checksum": "puqrql"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
